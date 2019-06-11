@@ -1,0 +1,4 @@
+I:\Daniel Delgado\DanielDelgado_ArbolBinario\Entity\bin\Debug\Entity.dll
+I:\Daniel Delgado\DanielDelgado_ArbolBinario\Entity\bin\Debug\Entity.pdb
+I:\Daniel Delgado\DanielDelgado_ArbolBinario\Entity\obj\Debug\Entity.dll
+I:\Daniel Delgado\DanielDelgado_ArbolBinario\Entity\obj\Debug\Entity.pdb
